@@ -1,5 +1,6 @@
 mod opdracht2;
+mod opdracht3;
 
 fn main() {
-    opdracht2::run();
+    opdracht3::run();
 }
